@@ -6,4 +6,7 @@ Contact with me via [LinkedIn](https://www.linkedin.com/in/georgepirogov) or [Te
 
 Latest posts from my blog
 <!-- BLOG-POST-LIST:START -->
+- [What is DoH and how to cook it?](https://digitalduke.blog/What-is-DoH-and-how-to-cook-it/)
+- [Один в поле не воин, или причем тут OSS?](https://digitalduke.blog/leadership-and-OSS/)
+- [GRUB rescue mode](https://digitalduke.blog/GRUB-rescue-mode/)
 <!-- BLOG-POST-LIST:END -->
