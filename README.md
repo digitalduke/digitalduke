@@ -3,3 +3,7 @@ Hi, I am software engineer and I am turning coffee into code. Some technologies 
 <br />
 
 Contact with me via [LinkedIn](https://www.linkedin.com/in/georgepirogov) or [Telegram](https://t.me/digitalduke).
+
+# Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
