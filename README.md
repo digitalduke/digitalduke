@@ -6,8 +6,8 @@ Contact with me via [LinkedIn](https://www.linkedin.com/in/georgepirogov) or [Te
 
 <br />
 
+<!-- BLOG-POST-LIST:START
 Latest posts from my blog
-<!-- BLOG-POST-LIST:START -->
 - [Режим бога для веб-мастера](https://digitalduke.blog/webmaster-god-mode/)
 - [What is DoH and how to cook it?](https://digitalduke.blog/What-is-DoH-and-how-to-cook-it/)
 - [Один в поле не воин, или причем тут OSS?](https://digitalduke.blog/leadership-and-OSS/)
