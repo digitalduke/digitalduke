@@ -2,7 +2,7 @@
 
 Hi, I am software engineer and I am turning coffee into code. I work for [the largest real estate website](https://cian.ru) in Russia. Some technologies I enjoy working with include Python, microservices and serverless.
 
-Contact with me via [LinkedIn](https://www.linkedin.com/in/georgepirogov) or [Telegram](https://t.me/digitalduke).
+Contact with me via [LinkedIn](https://www.linkedin.com/in/georgepirogov).
 <!-- BLOG-POST-LIST:START
 Latest posts from my blog
 - [Режим бога для веб-мастера](https://digitalduke.blog/webmaster-god-mode/)
