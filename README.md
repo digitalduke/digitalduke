@@ -2,10 +2,10 @@
 
 Hello, 
 
-my name is George (polish: Jerzy). I am software engineer and manager. For now I lead develpment of marketplace on the real estate classified platform which helps peoples and real estate agents reach each other.
+my name is George (polish: Jerzy). I am engineer and manager.
 
-- 💡 Interested in software architecture, engineering management & startups
-- 🐍 Enjoy working with Python
-- ☕ Coffee lover
+- 💡 interested in software architecture
+- 🐍 enjoy working with Python
+- ☕ green tea lover
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/georgepirogov).
