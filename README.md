@@ -8,4 +8,4 @@ my name is George (polish: Jerzy). I am engineer and manager.
 - 🐍 enjoy working with Pythons and humans
 - ☕ coffee and green tea lover
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/georgepirogov).
+Reach me on [LinkedIn](https://www.linkedin.com/in/georgepirogov) or [Telegram](https://t.me/digitalduke)
